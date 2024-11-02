@@ -28,6 +28,7 @@ public class averagemarks {
         }else {
             System.out.println("Grade: F(Fail)");
         }
+        scanner.close();
 
     }
     
